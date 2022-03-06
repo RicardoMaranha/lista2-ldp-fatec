@@ -1,0 +1,16 @@
+body{
+    background-color: rgba(0, 0, 0, 0.815);
+    font: 20pt Arial;
+    color: azure;
+}
+
+input{
+    font: 18pt Arial Black;
+    color: brown;
+}
+
+div{
+    font: 29pt Arial;
+    color: aqua;
+    margin-top: 20px;
+}
